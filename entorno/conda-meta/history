@@ -1,0 +1,99 @@
+==> 2024-05-10 23:32:49 <==
+# cmd: /home/jam/miniforge3/bin/conda create -p ./entorno
+# conda version: 24.4.0
+==> 2024-05-10 23:45:51 <==
+# cmd: /home/jam/miniforge3/bin/conda install numpy
+# conda version: 24.4.0
++conda-forge/linux-aarch64::_openmp_mutex-4.5-2_gnu
++conda-forge/linux-aarch64::bzip2-1.0.8-h31becfc_5
++conda-forge/linux-aarch64::ca-certificates-2024.2.2-hcefe29a_0
++conda-forge/linux-aarch64::ld_impl_linux-aarch64-2.40-hba4e955_0
++conda-forge/linux-aarch64::libblas-3.9.0-22_linuxaarch64_openblas
++conda-forge/linux-aarch64::libcblas-3.9.0-22_linuxaarch64_openblas
++conda-forge/linux-aarch64::libexpat-2.6.2-h2f0025b_0
++conda-forge/linux-aarch64::libffi-3.4.2-h3557bc0_5
++conda-forge/linux-aarch64::libgcc-ng-13.2.0-he277a41_7
++conda-forge/linux-aarch64::libgfortran-ng-13.2.0-he9431aa_7
++conda-forge/linux-aarch64::libgfortran5-13.2.0-h87d9d71_7
++conda-forge/linux-aarch64::libgomp-13.2.0-he277a41_7
++conda-forge/linux-aarch64::liblapack-3.9.0-22_linuxaarch64_openblas
++conda-forge/linux-aarch64::libnsl-2.0.1-h31becfc_0
++conda-forge/linux-aarch64::libopenblas-0.3.27-pthreads_h5a5ec62_0
++conda-forge/linux-aarch64::libsqlite-3.45.3-h194ca79_0
++conda-forge/linux-aarch64::libstdcxx-ng-13.2.0-h3f4de04_7
++conda-forge/linux-aarch64::libuuid-2.38.1-hb4cce97_0
++conda-forge/linux-aarch64::libxcrypt-4.4.36-h31becfc_1
++conda-forge/linux-aarch64::libzlib-1.2.13-h31becfc_5
++conda-forge/linux-aarch64::ncurses-6.5-h0425590_0
++conda-forge/linux-aarch64::numpy-1.26.4-py312h470d778_0
++conda-forge/linux-aarch64::openssl-3.3.0-h31becfc_0
++conda-forge/linux-aarch64::python-3.12.3-h43d1f9e_0_cpython
++conda-forge/linux-aarch64::python_abi-3.12-4_cp312
++conda-forge/linux-aarch64::readline-8.2-h8fc344f_1
++conda-forge/linux-aarch64::tk-8.6.13-h194ca79_0
++conda-forge/linux-aarch64::xz-5.2.6-h9cdd2b7_0
++conda-forge/noarch::pip-24.0-pyhd8ed1ab_0
++conda-forge/noarch::setuptools-69.5.1-pyhd8ed1ab_0
++conda-forge/noarch::tzdata-2024a-h0c530f3_0
++conda-forge/noarch::wheel-0.43.0-pyhd8ed1ab_1
+# update specs: ['numpy']
+==> 2024-05-10 23:47:00 <==
+# cmd: /home/jam/miniforge3/bin/conda install joblib
+# conda version: 24.4.0
++conda-forge/noarch::joblib-1.4.2-pyhd8ed1ab_0
+# update specs: ['joblib']
+==> 2024-05-10 23:55:40 <==
+# cmd: /home/jam/miniforge3/bin/conda install scipy
+# conda version: 24.4.0
++conda-forge/linux-aarch64::scipy-1.13.0-py312h37abc14_1
+# update specs: ['scipy']
+==> 2024-05-10 23:57:51 <==
+# cmd: /home/jam/miniforge3/bin/conda install pandas
+# conda version: 24.4.0
++conda-forge/linux-aarch64::pandas-2.2.2-py312hc56aa73_0
++conda-forge/noarch::python-dateutil-2.9.0-pyhd8ed1ab_0
++conda-forge/noarch::python-tzdata-2024.1-pyhd8ed1ab_0
++conda-forge/noarch::pytz-2024.1-pyhd8ed1ab_0
++conda-forge/noarch::six-1.16.0-pyh6c4a22f_0
+# update specs: ['pandas']
+==> 2024-05-11 00:04:05 <==
+# cmd: /home/jam/miniforge3/bin/conda install matplotlib
+# conda version: 24.4.0
++conda-forge/linux-aarch64::brotli-1.1.0-h31becfc_1
++conda-forge/linux-aarch64::brotli-bin-1.1.0-h31becfc_1
++conda-forge/linux-aarch64::contourpy-1.2.1-py312h8f0b210_0
++conda-forge/linux-aarch64::fonttools-4.51.0-py312hdd3e373_0
++conda-forge/linux-aarch64::freetype-2.12.1-hf0a5ef3_2
++conda-forge/linux-aarch64::kiwisolver-1.4.5-py312h721a97f_1
++conda-forge/linux-aarch64::lcms2-2.16-h922389a_0
++conda-forge/linux-aarch64::lerc-4.0.0-h4de3ea5_0
++conda-forge/linux-aarch64::libbrotlicommon-1.1.0-h31becfc_1
++conda-forge/linux-aarch64::libbrotlidec-1.1.0-h31becfc_1
++conda-forge/linux-aarch64::libbrotlienc-1.1.0-h31becfc_1
++conda-forge/linux-aarch64::libdeflate-1.20-h31becfc_0
++conda-forge/linux-aarch64::libjpeg-turbo-3.0.0-h31becfc_1
++conda-forge/linux-aarch64::libpng-1.6.43-h194ca79_0
++conda-forge/linux-aarch64::libtiff-4.6.0-hf980d43_3
++conda-forge/linux-aarch64::libwebp-base-1.4.0-h31becfc_0
++conda-forge/linux-aarch64::libxcb-1.15-h2a766a3_0
++conda-forge/linux-aarch64::matplotlib-3.8.4-py312h8025657_0
++conda-forge/linux-aarch64::matplotlib-base-3.8.4-py312h132ec79_0
++conda-forge/linux-aarch64::openjpeg-2.5.2-h0d9d63b_0
++conda-forge/linux-aarch64::pillow-10.3.0-py312h317ddc0_0
++conda-forge/linux-aarch64::pthread-stubs-0.4-hb9de7d4_1001
++conda-forge/linux-aarch64::tornado-6.4-py312h9ef2f89_0
++conda-forge/linux-aarch64::xorg-libxau-1.0.11-h31becfc_0
++conda-forge/linux-aarch64::xorg-libxdmcp-1.1.3-h3557bc0_0
++conda-forge/linux-aarch64::zstd-1.5.6-h02f22dd_0
++conda-forge/noarch::certifi-2024.2.2-pyhd8ed1ab_0
++conda-forge/noarch::cycler-0.12.1-pyhd8ed1ab_0
++conda-forge/noarch::munkres-1.1.4-pyh9f0ad1d_0
++conda-forge/noarch::packaging-24.0-pyhd8ed1ab_0
++conda-forge/noarch::pyparsing-3.1.2-pyhd8ed1ab_0
+# update specs: ['matplotlib']
+==> 2024-05-11 00:16:12 <==
+# cmd: /home/jam/miniforge3/bin/conda install scikit-learn
+# conda version: 24.4.0
++conda-forge/linux-aarch64::scikit-learn-1.4.2-py312ha513981_0
++conda-forge/noarch::threadpoolctl-3.5.0-pyhc1e730c_0
+# update specs: ['scikit-learn']

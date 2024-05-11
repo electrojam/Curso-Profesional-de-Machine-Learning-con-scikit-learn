@@ -1,0 +1,33 @@
+{
+  "build": "he9431aa_7",
+  "build_number": 7,
+  "channel": "https://conda.anaconda.org/conda-forge/linux-aarch64",
+  "constrains": [],
+  "depends": [
+    "libgfortran5 13.2.0 h87d9d71_7"
+  ],
+  "extracted_package_dir": "/home/jam/miniforge3/pkgs/libgfortran-ng-13.2.0-he9431aa_7",
+  "features": "",
+  "files": [],
+  "fn": "libgfortran-ng-13.2.0-he9431aa_7.conda",
+  "license": "GPL-3.0-only WITH GCC-exception-3.1",
+  "link": {
+    "source": "/home/jam/miniforge3/pkgs/libgfortran-ng-13.2.0-he9431aa_7",
+    "type": 1
+  },
+  "md5": "d714db6ba9d67d55d21cf96316714ec8",
+  "name": "libgfortran-ng",
+  "package_tarball_full_path": "/home/jam/miniforge3/pkgs/libgfortran-ng-13.2.0-he9431aa_7.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "295d9d4266894d7b5c65950e6f6e91c8b8e1730a540fa5bcc488192b76277913",
+  "size": 24367,
+  "subdir": "linux-aarch64",
+  "timestamp": 1715017978000,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/linux-aarch64/libgfortran-ng-13.2.0-he9431aa_7.conda",
+  "version": "13.2.0"
+}

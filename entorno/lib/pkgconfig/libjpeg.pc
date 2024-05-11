@@ -1,0 +1,10 @@
+prefix=/scikit-learn/entorno
+exec_prefix=/scikit-learn/entorno
+libdir=/scikit-learn/entorno/lib
+includedir=/scikit-learn/entorno/include
+
+Name: libjpeg
+Description: A SIMD-accelerated JPEG codec that provides the libjpeg API
+Version: 3.0.0
+Libs: -L${libdir} -ljpeg
+Cflags: -I${includedir}
