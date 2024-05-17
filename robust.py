@@ -19,17 +19,17 @@ if __name__ == '__main__':
 
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42) # particionamos los datos
 
-    estimadores = {
+    estimadores = { #creamos diccionario con funciones 3 regularizadoras
         'SVR' : SVR(gamma = 'auto', C=1.0, epsilon=0.1),
         'RANSAC': RANSACRegressor(),
         'HUBER' : HuberRegressor(epsilon=1.35)
     }
 
-    for name, estimador in estimadores.items():
+    for name, estimador in estimadores.items(): #automatizamos implementación de nuestros 3 modelos
         estimador.fit(X_train, y_train)
         predictions = estimador.predict(X_test)
         print("="*64)
         print(name)
-        print("MSE: ", mean_squared_error(y_test, predictions))
+        print("MSE (mean squared error): ", mean_squared_error(y_test, predictions))
 
 
